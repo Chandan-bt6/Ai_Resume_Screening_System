@@ -122,22 +122,22 @@ Final Score = (70% Skill Match) + (30% TF-IDF Similarity)
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/1.home_page.png)
+![Home Page](./sreenshots/1.home_page.png)
 
 ### 📤 Resume Upload Interface
-![Resume Upload](./screenshots/2.upload_resume.png)
+![Resume Upload](./sreenshots/2.upload_resume.png)
 
 ### 🎯 Candidate Score Analysis
-![Candidate Score](./3.screenshots/candidate_score.png)
+![Candidate Score](./3.sreenshots/candidate_score.png)
 
 ### 🔍 Skill Matching Overview
-![Skill Matching](./4.screenshots/skill_matching.png)
+![Skill Matching](./4.sreenshots/skill_matching.png)
 
 ### 📊 Ai Recommendation
-![Ai Recommendation](./5.screenshots/ai_recommendation.png)
+![Ai Recommendation](./5.sreenshots/ai_recommendation.png)
 
 ### 📊 Improovements
-![Improovements](./6.screenshots/improovements_&_download_report.png)
+![Improovements](./6.sreenshots/improovements_&_download_report.png)
 ---
 
 ## 🔮 Future Improvements
