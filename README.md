@@ -72,7 +72,7 @@ Resume_Screening_System/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Resume_Screening_System.git
+git clone (https://github.com/Chandan-bt6/Ai_Resume_Screening_System.git)
 cd Resume_Screening_System
 ```
 ### Install Dependencies
@@ -128,16 +128,16 @@ Final Score = (70% Skill Match) + (30% TF-IDF Similarity)
 ![Resume Upload](./sreenshots/2.upload_resume.png)
 
 ### 🎯 Candidate Score Analysis
-![Candidate Score](./3.sreenshots/candidate_score.png)
+![Candidate Score](./sreenshots/3.candidate_score.png)
 
 ### 🔍 Skill Matching Overview
-![Skill Matching](./4.sreenshots/skill_matching.png)
+![Skill Matching](./sreenshots/4.skill_matching.png)
 
 ### 📊 Ai Recommendation
-![Ai Recommendation](./5.sreenshots/ai_recommendation.png)
+![Ai Recommendation](./sreenshots/5.ai_recommendation.png)
 
 ### 📊 Improovements
-![Improovements](./6.sreenshots/improovements_&_download_report.png)
+![Improovements](./sreenshots/6.improovements_&_download_report.png)
 ---
 
 ## 🔮 Future Improvements
