@@ -158,10 +158,6 @@ Final Score = (70% Skill Match) + (30% TF-IDF Similarity)
 
 Aspiring AI/ML Engineer | Python Developer | Machine Learning Enthusiast
 
-LinkedIn: Add Your LinkedIn Profile
-
-GitHub: Add Your GitHub Profile
-
 ---
 
 ## ⭐ Support
