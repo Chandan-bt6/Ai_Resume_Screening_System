@@ -1,0 +1,67 @@
+AI Engineer
+
+Required Skills:
+
+Python
+NumPy
+Pandas
+Matplotlib
+Scikit-Learn
+TensorFlow
+PyTorch
+Machine Learning
+Deep Learning
+Natural Language Processing
+Computer Vision
+Data Analysis
+Data Preprocessing
+Feature Engineering
+Model Training
+Model Evaluation
+Statistics
+Linear Algebra
+SQL
+Git
+GitHub
+Flask
+FastAPI
+REST API
+Data Visualization
+Jupyter Notebook
+Linux
+Docker
+AWS
+Problem Solving
+Communication Skills
+
+
+Data Scientist
+
+Required Skills:
+
+Python
+R
+SQL
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-Learn
+Machine Learning
+Deep Learning
+Statistics
+Probability
+Data Cleaning
+Data Wrangling
+Data Visualization
+Exploratory Data Analysis
+Feature Engineering
+Model Evaluation
+A/B Testing
+Jupyter Notebook
+Power BI
+Tableau
+Git
+Linux
+AWS
+

@@ -1,0 +1,62 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Environment Variables
+
+.env
+
+# Model Files (if any)
+
+*.h5
+*.pkl
+*.joblib
+
+# Temporary Files
+
+temp/
+tmp/
+
+# Generated Reports
+
+reports/
+resume_report.txt
